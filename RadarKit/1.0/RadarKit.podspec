@@ -9,7 +9,7 @@ s.homepage     = 'http://www.vorosinnovation.com'
   s.summary      = 'Radar Map For Voros Innovations apps'
 
 # Source Info
-  s.platform     =  :osx, "10.9"
+  s.platform     =  :osx, "10.7"
   s.source       =  {:git => 'https://github.com/Tibbs/RadarKit.git', :tag => "1.0.0" }
   s.source_files =  ["RadarMap/RadarKit.*","RadarMap/Map*.*"]
   s.resources    =  ["RadarMap/*.txt", "RadarMap/*.gif"]
