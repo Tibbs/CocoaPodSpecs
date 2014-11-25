@@ -20,7 +20,7 @@ s.homepage     = 'http://www.vorosinnovation.com'
   
 # Pod Dependencies
   s.dependency 'iRate', '~> 1.11.3'
-  s.dependency 'Reachability', '~> 3.1.1'
+  s.dependency 'Reachability', '3.1.1'
   s.dependency 'hpple', '~> 0.2.0'
   s.dependency 'MWFeedParser', '~> 1.0.1'
   s.dependency 'Objective-C-HMTL-Parser', '~>0.0.1'
